@@ -12,5 +12,5 @@ Welcome card for IronMan
 
 #Screenshot3
 
-![](https://github.com/borzunovsm/Welcome-card/blob/main/Screensh3.png)
+![](https://github.com/borzunovsm/Welcome-card/blob/main/ScreenSh3.png)
 
